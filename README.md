@@ -11,7 +11,7 @@ os lixo da rua.
 
 ## Mecânicas 
 
-O Jogador pode se mover usando as setas do Mouse e atirar uma bolha de álcool em gel usando a tecla de espaço.
+O Jogador pode se mover usando as setas do teclado e atirar uma bolha de álcool em gel usando a tecla de espaço.
 
 ## Coletaveis
 
